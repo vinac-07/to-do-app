@@ -1,16 +1,9 @@
-# to_do
+# To do App
 
-A new Flutter project.
+## Description
 
-## Getting Started
+This is to do list where you can check off task after completion or delete task also add new task as per requirements.
 
-This project is a starting point for a Flutter application.
+![Finished App](https://github.com/vinac-07/to-do-app/blob/master/images/Screenshot_1626161910.png) ![Add Task](https://github.com/vinac-07/to-do-app/blob/master/images/Screenshot_1626161918.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
